@@ -1,24 +1,24 @@
 <!-- HERO -->
 <p align="center">
-  <b>Desenvolvedor Full Stack | Focado em Performance, UI moderna e Escalabilidade</b>
+  <b>Desenvolvimento Full Stack | Performance • UI moderna • Escalabilidade</b>
 </p>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com/?lines=Construindo+interfaces+modernas;Criando+experiências+digitais+rápidas;Sempre+evoluindo+como+dev&center=true&size=18](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=9CA4A7&width=435&lines=Build.+Learn.+Improve.+Repeat.;Code+is+temporary%2C+growth+is+permanent.;Mastery+comes+from+repetition+and+refinement.;Great+results+come+from+relentless+improvement.)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=9CA4A7&center=true&width=435&lines=Build.+Learn.+Improve.+Repeat.;Code+is+temporary%2C+growth+is+permanent.;Mastery+comes+from+repetition+and+refinement.;Great+results+come+from+relentless+improvement." />
 </p>
 
 ---
 
 ## ⚡ Sobre mim
 
-Sou um desenvolvedor focado em construir aplicações web modernas, rápidas e escaláveis.
+Foco em desenvolvimento de aplicações web modernas, com atenção em performance, escalabilidade e experiência do usuário.
 
-Tenho paixão por criar interfaces bem pensadas, código limpo e experiências que realmente fazem diferença para o usuário.
+Construo interfaces limpas, funcionais e bem estruturadas, sempre buscando evolução constante como desenvolvedor.
 
 - 🚀 Desenvolvimento web moderno (Frontend + Backend)
-- 🎯 Foco em performance e experiência do usuário
-- 🧠 Sempre aprendendo novas tecnologias
-- ⚙️ Interesse em arquitetura e boas práticas
+- 🎯 Foco em performance e UX
+- 🧠 Evolução contínua e boas práticas
+- ⚙️ Interesse em arquitetura de software
 
 ---
 
@@ -31,7 +31,7 @@ Tenho paixão por criar interfaces bem pensadas, código limpo e experiências q
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Banco de dados & ferramentas
@@ -57,13 +57,13 @@ Tenho paixão por criar interfaces bem pensadas, código limpo e experiências q
 ## 🚀 Projetos em destaque
 
 ### 🛒 E-commerce moderno
-Plataforma completa de vendas com UI responsiva, performance otimizada e integração com pagamentos.
+Sistema completo de vendas online com interface responsiva, performance otimizada e integração com pagamentos.
 
 ### 📊 Dashboard administrativo
-Painel com gráficos, métricas em tempo real e sistema de autenticação.
+Painel com gráficos, métricas em tempo real e autenticação de usuários.
 
 ### ⚙️ Landing pages de alta conversão
-Sites rápidos focados em conversão e experiência de usuário.
+Páginas rápidas focadas em conversão e experiência do usuário.
 
 ---
 
@@ -91,4 +91,8 @@ Sites rápidos focados em conversão e experiência de usuário.
   </a>
 </p>
 
+---
+
+<p align="center">
+  Minimalismo • Performance • Evolução constante
 </p>
