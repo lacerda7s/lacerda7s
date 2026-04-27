@@ -33,7 +33,7 @@ Tenho paixão por criar interfaces bem pensadas, código limpo e experiências q
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts" />
+  <img src="https://skillicons.dev/icons?i=c" />
 </p>
 
 ### Banco de dados & ferramentas
