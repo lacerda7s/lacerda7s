@@ -31,7 +31,7 @@ Construo interfaces limpas, funcionais e bem estruturadas, sempre buscando evolu
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=c,nodejs" />
 </p>
 
 ### Banco de dados & ferramentas
