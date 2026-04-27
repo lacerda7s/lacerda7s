@@ -87,7 +87,7 @@ Páginas rápidas focadas em conversão e experiência do usuário.
   <a href="https://www.linkedin.com/in/sergio-lacerda-10a337295/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/lacerda7s">
+  <a href="https://instagram.com/lacerda.7s">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
