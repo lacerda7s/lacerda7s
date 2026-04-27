@@ -1,6 +1,4 @@
 <!-- HERO -->
-<h1 align="center">Olá, eu sou Desenvolvedor 👋</h1>
-
 <p align="center">
   <b>Desenvolvedor Full Stack | Focado em Performance, UI moderna e Escalabilidade</b>
 </p>
