@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Construindo+interfaces+modernas;Criando+experiências+digitais+rápidas;Sempre+evoluindo+como+dev&center=true&size=18">
+  <img src="[https://readme-typing-svg.herokuapp.com/?lines=Construindo+interfaces+modernas;Criando+experiências+digitais+rápidas;Sempre+evoluindo+como+dev&center=true&size=18](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=9CA4A7&width=435&lines=Build.+Learn.+Improve.+Repeat.;Code+is+temporary%2C+growth+is+permanent.;Mastery+comes+from+repetition+and+refinement.;Great+results+come+from+relentless+improvement.)">
 </p>
 
 ---
