@@ -38,7 +38,7 @@ Tenho paixão por criar interfaces bem pensadas, código limpo e experiências q
 
 ### Banco de dados & ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -82,25 +82,15 @@ Sites rápidos focados em conversão e experiência de usuário.
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:serhenrilacerda@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/seuusuario">
+  <a href="https://www.linkedin.com/in/sergio-lacerda-10a337295/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/seuusuario">
+  <a href="https://instagram.com/lacerda7s">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
----
-
-## 🧩 Filosofia de código
-
-> “Código bom não é o que funciona apenas, é o que pode evoluir sem quebrar.”
-
----
-
-<p align="center">
-  ⭐ Sempre buscando evoluir um commit por vez ⭐
 </p>
